@@ -24,7 +24,10 @@ Note that the fastest team receives a bonus 5 points per test case. In the case 
 | Part | Maximum points for correctness | Maximum points for speed |
 | :---:|      :---:                     |:---:                     |
 |   1  |30 (across all 3 test cases)    |    0                     |
-
+|   2  |30                              |   60                     |
+|   3  |30                              |   60                     |
+|   4  |30                              |   60                     |
+|   5  |30                              |   60                     |
 
 
 ## Advice
