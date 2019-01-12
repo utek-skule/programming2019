@@ -17,7 +17,7 @@ The parser verifies that:
 
 Points for correctness will be awarded if the robot(s) collect all of the items and never crash. Full points for speed will be awarded to the team with the fastest solution (by number of timesteps). Other teams will be awarded points based on the following formula: 
 ```
-15 * your_timesteps / min_timesteps
+15 * min_timesteps / your_timesteps
 ```
 Note that the fastest team receives a bonus 5 points per test case. In the case of a tie, both/ all teams that are tied will receive the bonus
 
